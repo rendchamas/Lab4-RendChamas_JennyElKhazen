@@ -26,6 +26,9 @@ Before running the application, ensure that you have the following dependencies 
 
 Python 3.x
 SQLite3 (pre-installed with Python)
+
+
+
 Required Python packages:
 
 pip install PyQt5
@@ -34,6 +37,9 @@ pip install pickle
 How to Run:
 
 1. Running the Tkinter Interface
+
+
+
 The Tkinter interface provides basic functionality for managing students, instructors, and courses. To run the Tkinter interface:
 
 Navigate to the project directory:
@@ -48,7 +54,13 @@ Register students to courses
 Assign instructors to courses
 Export data to CSV
 Save/load records from a file
+
+
+
 2. Running the PyQt Interface
+
+
+
 The PyQt interface offers a more advanced and flexible user experience with additional functionality. To run the PyQt interface:
 
 Navigate to the project directory:
