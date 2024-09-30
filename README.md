@@ -1,6 +1,8 @@
 # Lab4-RendChamas_JennyElKhazen
 A project combining Tkinter and PyQt documented implemetations.
+
 School Management System
+
 Overview:
 This project is a School Management System that allows users to manage students, instructors, and courses. It includes functionality for registering students, assigning instructors to courses, and handling course enrollments. The system offers two graphical user interfaces (GUIs) for interaction:
 
