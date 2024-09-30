@@ -15,6 +15,10 @@ Tkinter Interface
 
 
 PyQt Interface
+
+
+
+
 Both interfaces allow you to add, edit, and delete records, as well as perform tasks like course enrollment, instructor assignment, and data export.
 
 Requirements
