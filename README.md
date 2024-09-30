@@ -6,7 +6,14 @@ School Management System
 Overview:
 This project is a School Management System that allows users to manage students, instructors, and courses. It includes functionality for registering students, assigning instructors to courses, and handling course enrollments. The system offers two graphical user interfaces (GUIs) for interaction:
 
+
+
+
 Tkinter Interface
+
+
+
+
 PyQt Interface
 Both interfaces allow you to add, edit, and delete records, as well as perform tasks like course enrollment, instructor assignment, and data export.
 
